@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, soy Jhoni 👋
+# Hey, soy Jhonis 👋
 
 ### Systems Engineering Student · Mobile & Web Developer
 
